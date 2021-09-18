@@ -39,7 +39,7 @@ The value of 0.9999999999999999 is not equal to 1.0!
 
 Provide a one-paragraph response to this question.
 
-The % operator in python is used to find the remainder of a value when two integers are divided by each other. If the two numbers that are being divided can be divided into each other equally then there will be no remainders. If the two numbers cannot be divided into each other perfectly then that means there will be a remainder. This can be useful to us when we are looking for an even or odd number, because all even numbers can be divided by two without any extra, and there will be a remainder when an odd is divided by two. This operator helps us identify number properties, like even or odd, and use that information to shorten large data sets.
+The % operator in python is used to find the remainder of a value when two integers are divided by each other. If the two numbers that are being divided can be divided into each other equally then there will be no remainders, however if the two numbers cannot be divided into each other perfectly then that means there will be a remainder. This can be useful to us when we are looking for an even or odd number, because all even numbers can be divided by two without any extra, and there will be a remainder when an odd is divided by two. This operator helps us identify number properties, like even or odd, and use that information to shorten large data sets.
 
 #### What are the inputs and outputs of the `determine_even_odd` function?
 
